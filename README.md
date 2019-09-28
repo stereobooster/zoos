@@ -15,6 +15,8 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 
 - [The Stony Brook Algorithm Repository](http://www.algorist.com/algorist.html)
 - [The Periodic Table of Data Structures](https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf)
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+- [Type Systems](https://cs.lmu.edu/~ray/notes/types/)
 - [Data structure zoo](https://github.com/sellout/data-structure-zoo/wiki)
 - [Phil’s Data Structure Zoo](https://g1thubhub.github.io/data-structure-zoo.html)
 
