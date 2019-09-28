@@ -9,14 +9,19 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 ## Programming Languages
 
 - [The programming languages zoo](https://plzoo.andrej.com/)
+- [Programming Paradigms for Dummies](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
 ## Data structures
 
-- [Data structure zoo](https://github.com/sellout/data-structure-zoo/wiki).
+- [The Stony Brook Algorithm Repository](http://www.algorist.com/algorist.html)
+- [The Periodic Table of Data Structures](https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf)
+- [Data structure zoo](https://github.com/sellout/data-structure-zoo/wiki)
+- [Phil’s Data Structure Zoo](https://g1thubhub.github.io/data-structure-zoo.html)
 
 ## Logic systems
 
 - [Logic System Interrelationships](https://web.archive.org/web/20190111041713if_/http://home.utah.edu/~nahaj/logic/structures/index.html)
+- [A Timeline for Logic, λ-Calculus, and Programming Language Theory](http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf)
 
 ## Machine learning models
 
