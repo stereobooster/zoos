@@ -30,3 +30,18 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 - [Model Zoo](https://modelzoo.co/)
 - [ONNX Model Zoo](https://github.com/onnx/models)
 - [Intuitive Machine Learning for Engineers](https://modeldepot.io/)
+
+## Category theory
+
+- [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
+
+## Mental models
+
+- [A cheat sheet to help you remember 200+ biases via 3 conundrums](https://busterbenson.com/piles/cognitive-biases/)
+- [Pocket Biases](https://busterbenson.com/biases/)
+- [the cognitive bias codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+- [The School of Thought](https://www.schoolofthought.org/)
+- [yourbias.is](https://yourbias.is/)
+- [yourlogicalfallacyis](https://yourlogicalfallacyis.com/)
+- [Heuristicards — A flash deck of cognitive bias](https://medium.com/@agkdesign/heuristicards-a-flash-deck-of-cognitive-bias-4dac372ac802)
+- [mental models box](https://www.mentalmodelsbox.com/)
