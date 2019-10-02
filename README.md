@@ -24,6 +24,7 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 
 - [Logic System Interrelationships](https://web.archive.org/web/20190111041713if_/http://home.utah.edu/~nahaj/logic/structures/index.html)
 - [A Timeline for Logic, λ-Calculus, and Programming Language Theory](http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf)
+- [Lambda calculus vending machine](https://crypto.stanford.edu/~blynn/lambda/pts.html)
 
 ## Machine learning models
 
