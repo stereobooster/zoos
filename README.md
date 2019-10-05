@@ -26,6 +26,10 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 - [A Timeline for Logic, λ-Calculus, and Programming Language Theory](http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf)
 - [Lambda calculus vending machine](https://crypto.stanford.edu/~blynn/lambda/pts.html)
 
+## Type systems
+
+- [On Understanding Types, Data Abstraction, and Polymorphism](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf) (see page 35)
+
 ## Machine learning models
 
 - [Model Zoo](https://modelzoo.co/)
