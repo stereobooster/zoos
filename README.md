@@ -19,6 +19,7 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 - [Type Systems](https://cs.lmu.edu/~ray/notes/types/)
 - [Data structure zoo](https://github.com/sellout/data-structure-zoo/wiki)
 - [Phil’s Data Structure Zoo](https://g1thubhub.github.io/data-structure-zoo.html)
+- [opendatastructures](http://opendatastructures.org/)
 
 ## Logic systems
 
@@ -29,6 +30,7 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 ## Type systems
 
 - [On Understanding Types, Data Abstraction, and Polymorphism](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf) (see page 35)
+- [Lambda calculus vending machine](https://crypto.stanford.edu/~blynn/lambda/pts.html)
 
 ## Machine learning models
 
