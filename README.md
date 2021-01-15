@@ -20,6 +20,7 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 - [Data structure zoo](https://github.com/sellout/data-structure-zoo/wiki)
 - [Phil’s Data Structure Zoo](https://g1thubhub.github.io/data-structure-zoo.html)
 - [opendatastructures](http://opendatastructures.org/)
+- [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
 
 ## Logic systems
 
