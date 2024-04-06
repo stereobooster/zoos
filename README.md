@@ -43,6 +43,10 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 
 - [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 
+## Combinatorial species
+
+- [Species and Functors and Types, Oh My!](http://ozark.hendrix.edu/~yorgey/pub/species-pearl.pdf)
+
 ## Mental models
 
 - [A cheat sheet to help you remember 200+ biases via 3 conundrums](https://busterbenson.com/piles/cognitive-biases/)
