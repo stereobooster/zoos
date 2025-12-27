@@ -30,6 +30,7 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 
 ## Type systems
 
+- https://sdiehl.github.io/typechecker-zoo/
 - [On Understanding Types, Data Abstraction, and Polymorphism](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf) (see page 35)
 - [Lambda calculus vending machine](https://crypto.stanford.edu/~blynn/lambda/pts.html)
 
