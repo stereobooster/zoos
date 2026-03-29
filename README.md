@@ -11,6 +11,7 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 - [The programming languages zoo](https://plzoo.andrej.com/)
 - [Programming Paradigms for Dummies](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 - https://github.com/brendanzab/language-garden
+- https://github.com/stereobooster/write-you-a-programming-language
 
 ## Data structures
 
