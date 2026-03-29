@@ -10,6 +10,7 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 
 - [The programming languages zoo](https://plzoo.andrej.com/)
 - [Programming Paradigms for Dummies](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+- https://github.com/brendanzab/language-garden
 
 ## Data structures
 
@@ -31,6 +32,7 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 ## Type systems
 
 - https://sdiehl.github.io/typechecker-zoo/
+- https://github.com/AndrasKovacs/elaboration-zoo
 - [On Understanding Types, Data Abstraction, and Polymorphism](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf) (see page 35)
 - [Lambda calculus vending machine](https://crypto.stanford.edu/~blynn/lambda/pts.html)
 
