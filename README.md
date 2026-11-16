@@ -6,6 +6,10 @@ Zoo is an attempt to [classify](https://stereobooster.com/posts/classification/)
 
 - [Complexity Zoo](https://complexityzoo.uwaterloo.ca/Complexity_Zoo)
 
+## Error-correcting codes
+
+- [Error Correction Zoo](https://errorcorrectionzoo.org/)
+
 ## Programming Languages
 
 - [The programming languages zoo](https://plzoo.andrej.com/)
